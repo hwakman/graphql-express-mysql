@@ -1,0 +1,16 @@
+{
+  "name": "props",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8",
+    "nodemon": "^2.0.2",
+    "promise-mysql": "^4.1.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
